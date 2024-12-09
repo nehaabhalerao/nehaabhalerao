@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Neha Bhalerao</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/a1c63f80-48d3-45b9-92ab-092affb67b31">
+<img 
+  align="right" 
+  alt="Coding Cat" 
+  src="https://github.com/user-attachments/assets/c944dde3-f4dd-44c8-9a1a-575edf11c5e1" 
+  style="width: 300px; height: 00px;">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nehaabhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
