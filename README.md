@@ -1,7 +1,3 @@
-<img 
-  src="https://github.com/user-attachments/assets/fd8afc97-3b33-4885-8406-e6077bd3ccc9" 
-  alt="Banner Image" 
-  style="width:95%; height: 150%;">
 
 <h1 align="center">Hi 👋, I'm Neha Bhalerao</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
